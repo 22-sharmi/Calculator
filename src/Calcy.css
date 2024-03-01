@@ -54,7 +54,7 @@
     font-size: 2rem;
     box-sizing: border-box;
     text-align: right;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .history {
